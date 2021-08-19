@@ -154,6 +154,7 @@ void BuildWall(int cnt, int n, int m) {
 	}
 }
 
+
 int main() {
 	int n, m;   // 가로, 세로
 
