@@ -73,6 +73,7 @@ int CountSquares() {
 	return cnt;
 }
 
+
 int main() {
 	int n;
 	
